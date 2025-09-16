@@ -8,13 +8,13 @@ Beyond the computational side, the project emphasized **economic interpretation*
 
 Key strengths of this project included the use of real financial data, the critical comparison of competing models, and the integration of mathematical, computational, and economic perspectives. The collaborative nature of the project also fostered discussion within the team, allowing us to connect theoretical models to practical implications in fixed income markets.
 
-# Summary of Results
+## Summary of Results
 
 Overall, the analysis showed that **Newton’s Method** is more robust and accurate than **Gradient Descent**, especially when the starting point is poorly chosen or when the step size in GD is not properly calibrated. While Gradient Descent is faster in terms of execution time, it is highly sensitive to step size and often diverges, whereas Newton achieves more reliable convergence at a higher computational cost.  
 
 From an economic perspective, the results confirmed that yield curves across different markets reacted differently to global shocks. The ECB and Fed adopted aggressive tightening policies, leading to steeper short-term yields, while the BoJ maintained a stable zero-rate policy, producing flatter curves. 
 
-# Alternative Calibration Methods (Not Implemented)
+## Alternative Calibration Methods (Not Implemented)
 
 In addition to Gradient Descent and Newton’s Method, two other algorithms are widely used for yield curve calibration:  
 
@@ -24,7 +24,7 @@ In addition to Gradient Descent and Newton’s Method, two other algorithms are 
 
 While not implemented in this project, these methods represent promising alternatives for future extensions, offering different trade-offs between accuracy, robustness, and computational efficiency.
 
-# Tools and Libraries
+## Tools and Libraries
 
 The project was implemented in **Python** using the following main libraries:
 
