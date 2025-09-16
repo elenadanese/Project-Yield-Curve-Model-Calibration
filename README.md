@@ -34,3 +34,4 @@ The project was implemented in **Python** using the following main libraries:
 - **SciPy**: gradient approximation and linear algebra utilities.  
 - **time** and **os**: performance measurement and file handling.  
 
+The full report was developed as a group project during the MSc in Computational Finance. For privacy reasons, only the technical sections curated by me are included here.
